@@ -1,4 +1,4 @@
-# learning-vue-js
+# Learning vue.js
 This is sample project for learning vue.js from scratch.
 
 #### Learning Resources
